@@ -1,0 +1,9 @@
+:root {
+  --myColor: red;
+}
+.login_color {
+  color: var(--myColor);
+}
+.bg_color {
+  color: blue;
+}
